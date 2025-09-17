@@ -8,4 +8,3 @@ This project is a **Machine Learning classification model** that predicts whethe
 - Implements **Logistic Regression** (can be extended to other ML models)  
 - Evaluates model performance with **accuracy score**  
 
-## 🗂️ Project Structure
